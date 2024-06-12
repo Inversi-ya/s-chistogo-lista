@@ -25,7 +25,7 @@ h1, h3 {
 
 .content-section_theme_bright {
     background-color: #FEE42A;
-    color: #131313; 
+    color: #131313;
 }
 
 .header {
@@ -170,12 +170,12 @@ h1, h3 {
     row-gap: 6px;
 }
 
-.card_theme_dark {
-    background-color: #343434; 
+.card_theme_dark { 
+    background-color: #343434;
 }
 
 .card_theme_bright { 
-    background-color: #FEE42A; 
+    background-color: #FEE42A;
     color: #131313;
 }
 
